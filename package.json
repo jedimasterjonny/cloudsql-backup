@@ -4,5 +4,9 @@
     "dependencies": {
         "googleapis": "52.1.0",
         "google-auth-library": "6.0.1"
+    },
+    "devDependencies": {
+        "eslint": "^7.2.0",
+        "eslint-config-google": "^0.14.0"
     }
 }
