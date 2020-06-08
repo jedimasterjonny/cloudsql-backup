@@ -28,3 +28,7 @@ Backup CloudSQL databases to Google Cloud Storage buckets.
   - Auth header: Add OIDC token
   - Service account: account_that_can_invoke_cloud_functions
   - Audience: url_of_cloud_function
+
+## Terraform Automation
+
+Example Terraform deployment can be found in the file `exmaple_terraform.tf`
