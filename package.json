@@ -2,7 +2,7 @@
     "name": "cloudsql-backup",
     "version": "0.0.1",
     "dependencies": {
-        "googleapis": "52.1.0",
+        "googleapis": "54.0.0",
         "google-auth-library": "6.0.4"
     },
     "devDependencies": {
