@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "dependencies": {
         "googleapis": "59.0.0",
-        "google-auth-library": "6.0.6"
+        "google-auth-library": "6.1.0"
     },
     "devDependencies": {
         "eslint": "7.9.0",
